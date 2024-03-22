@@ -15,7 +15,7 @@ var level = 0;
 
 $(document).keypress(function() {
     if (!fired) {
-        $("#level-title").text("Level 0" /*after change it with "Level "+ level */);
+        $("#level-title").text("Level 0");
         nextSequence();
         fired = true;
     }
