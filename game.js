@@ -27,9 +27,6 @@ $(document).keypress(function() {
 
 /*
 
-if (!fired) {
-    
-}
 
 
 $("h1").text("Level "+ level);
