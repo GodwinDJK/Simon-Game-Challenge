@@ -29,7 +29,7 @@ $(document).keypress(function() {
 
 if (!fired) {
     $(document).keypress(function() {
-        $("h1").text("Level "+ level);
+        
     })
 }
 
