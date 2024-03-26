@@ -28,9 +28,7 @@ $(document).keypress(function() {
 /*
 
 if (!fired) {
-    $(document).keypress(function() {
-        
-    })
+    
 }
 
 
