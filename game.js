@@ -34,7 +34,7 @@ $(document).keypress(function() {
 
 var buttonColours = ["red", "blue", "green", "yellow"]
 
-var level = 0;
+
 var randomColour = "";
 $(document).on("keypress", function() {
     if (!fired) {
