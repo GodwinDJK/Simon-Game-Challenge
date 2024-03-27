@@ -31,7 +31,7 @@ $(document).keypress(function() {
 
 
 
-let fired = false;
+
 var buttonColours = ["red", "blue", "green", "yellow"]
 
 var level = 0;
