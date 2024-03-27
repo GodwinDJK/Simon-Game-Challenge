@@ -29,7 +29,7 @@ $(document).keypress(function() {
 
 
 
-$("h1").text("Level "+ level);
+
 
 let fired = false;
 var buttonColours = ["red", "blue", "green", "yellow"]
