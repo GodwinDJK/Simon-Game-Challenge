@@ -31,10 +31,6 @@ $(document).keypress(function() {
 
 
 
-
-
-
-var randomColour = "";
 $(document).on("keypress", function() {
     if (!fired) {
         $("h1").text("Level "+ level);
