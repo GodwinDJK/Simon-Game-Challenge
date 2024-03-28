@@ -32,7 +32,6 @@ $(document).keypress(function() {
 
 
 
-var buttonColours = ["red", "blue", "green", "yellow"]
 
 
 var randomColour = "";
