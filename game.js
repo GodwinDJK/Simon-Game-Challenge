@@ -33,7 +33,6 @@ $(document).keypress(function() {
 
 $(document).on("keypress", function() {
     if (!fired) {
-        $("h1").text("Level "+ level);
     }
     
 })
