@@ -44,7 +44,7 @@ function nextSequence(colours) {
 
     var randomChosenColour = colours[randomNumber];
 
-    level = level + 1;
+    
 
 
     $("h1").text("Level "+ level);
