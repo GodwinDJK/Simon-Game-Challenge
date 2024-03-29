@@ -35,7 +35,7 @@ $(document).on("keypress", function() {
     if (!fired) {
         $("h1").text("Level "+ level);
     }
-    fired = true;
+    
 })
 
 function nextSequence(colours) {
