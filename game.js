@@ -32,8 +32,7 @@ $(document).keypress(function() {
 
 
 $(document).on("keypress", function() {
-    if (!fired) {
-    }
+    if (!fired) 
     
 })
 
