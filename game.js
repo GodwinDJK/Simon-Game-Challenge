@@ -31,9 +31,7 @@ $(document).keypress(function() {
 
 
 
-$(document).on("keypress", function() {
-    
-})
+
 
 function nextSequence(colours) {
     
