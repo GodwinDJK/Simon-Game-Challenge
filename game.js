@@ -33,7 +33,7 @@ $(document).keypress(function() {
 
 function nextSequence(colours) {
     
-    var randomNumber = Math.floor(Math.random() * 4);
+    var randomNumber = Math.floor(Math.random())
 
     var randomChosenColour = colours[randomNumber];
 
